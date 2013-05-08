@@ -5,4 +5,4 @@ requirejs.config({
     }
 });
 
-requirejs(["activity/main"]);
+requirejs(["activity/activity"]);
